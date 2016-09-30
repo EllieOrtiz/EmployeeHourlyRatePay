@@ -1,0 +1,6 @@
+c:\users\familia ortiz\documents\visual studio 2012\Projects\Tarea3_Elizabeth\Tarea3_Elizabeth\bin\Debug\Tarea3_Elizabeth.exe.config
+c:\users\familia ortiz\documents\visual studio 2012\Projects\Tarea3_Elizabeth\Tarea3_Elizabeth\obj\Debug\Tarea3_Elizabeth.csprojResolveAssemblyReference.cache
+C:\Users\Familia Ortiz\Documents\Visual Studio 2012\Projects\Tarea3_Elizabeth\Tarea3_Elizabeth\bin\Debug\Tarea3_Elizabeth.exe
+C:\Users\Familia Ortiz\Documents\Visual Studio 2012\Projects\Tarea3_Elizabeth\Tarea3_Elizabeth\bin\Debug\Tarea3_Elizabeth.pdb
+C:\Users\Familia Ortiz\Documents\Visual Studio 2012\Projects\Tarea3_Elizabeth\Tarea3_Elizabeth\obj\Debug\Tarea3_Elizabeth.exe
+C:\Users\Familia Ortiz\Documents\Visual Studio 2012\Projects\Tarea3_Elizabeth\Tarea3_Elizabeth\obj\Debug\Tarea3_Elizabeth.pdb
