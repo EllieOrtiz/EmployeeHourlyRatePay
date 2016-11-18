@@ -5,28 +5,28 @@ public class Demo
 {
     public static void Main()   //Main es el responsable de pedirle al usuario los datos del empleado y luego mostrarlos
     {
-        Empleado x = new Empleado();    //objeto de la clase Empleado
+        Empleado x = new Empleado();    //object of Empleado class
 
         Console.WriteLine();
 
-        Console.WriteLine("Entre los datos siguientes:");
-        Console.Write("Nombre: ");
+        Console.WriteLine("Enter the following information:");
+        Console.Write("Name: ");
         x.Name = Console.ReadLine();
-        Console.Write("Seguro Social: ");
+        Console.Write("Social Security Number: ");
         x.SSN = Console.ReadLine();
-        Console.Write("Paga por hora: ");
+        Console.Write("Hourly pay: ");
         x.HourlyRate = Double.Parse(Console.ReadLine());
-        Console.Write("Horas trabajadas: ");
+        Console.Write("Worked hours: ");
         x.Hours = Double.Parse(Console.ReadLine());
 
         Console.WriteLine();
 
-        Console.WriteLine("---Datos del Empleado---");
-        Console.WriteLine("Nombre: {0}", x.Name);
-        Console.WriteLine("Seguro Social: {0}", x.SSN);
-        Console.WriteLine("Paga por hora: {0}", x.HourlyRate);
-        Console.WriteLine("Horas trabajadas: {0}", x.Hours);
-        Console.WriteLine("Paga: ${0}", x.TotalPay);
+        Console.WriteLine("---Employee Information---");
+        Console.WriteLine("Name: {0}", x.Name);
+        Console.WriteLine("Social Security Number: {0}", x.SSN);
+        Console.WriteLine("Hourly pay: {0}", x.HourlyRate);
+        Console.WriteLine("Worked hours: {0}", x.Hours);
+        Console.WriteLine("Total Pay: ${0}", x.TotalPay);
         Console.WriteLine();
     }
 }
@@ -38,12 +38,12 @@ public class Empleado : Persona     //clase Empleado que hereda de clase Persona
 
     public Empleado()   //metodo constructor
     {
-        Console.WriteLine("Objeto Empleado construido");
+        Console.WriteLine("Empleado Object Constructed");
     }
 
     ~Empleado()     //metodo destructor
     {
-        Console.WriteLine("Objeto Empleado destruido");
+        Console.WriteLine("Empleado Object Destroyed");
     }
 
     public double HourlyRate
@@ -87,12 +87,12 @@ public class Persona       //No tocar clase Persona
     {
         nombre = "";
         segsoc = "";
-        Console.WriteLine("Objeto Persona construido.");
+        Console.WriteLine("Persona Object Costructed.");
     }
 
     //Destructor
     ~Persona()
     {
-        Console.WriteLine("Objeto Persona destruido.");
+        Console.WriteLine("Persona Object Destroyed.");
     }
 }   //no tocar clase Persona

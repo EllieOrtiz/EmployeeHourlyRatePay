@@ -4,3 +4,9 @@ C:\Users\Familia Ortiz\Documents\Visual Studio 2012\Projects\Tarea3_Elizabeth\Ta
 C:\Users\Familia Ortiz\Documents\Visual Studio 2012\Projects\Tarea3_Elizabeth\Tarea3_Elizabeth\bin\Debug\Tarea3_Elizabeth.pdb
 C:\Users\Familia Ortiz\Documents\Visual Studio 2012\Projects\Tarea3_Elizabeth\Tarea3_Elizabeth\obj\Debug\Tarea3_Elizabeth.exe
 C:\Users\Familia Ortiz\Documents\Visual Studio 2012\Projects\Tarea3_Elizabeth\Tarea3_Elizabeth\obj\Debug\Tarea3_Elizabeth.pdb
+C:\Users\Elizabeth\Documents\GitHub\EmployeeHourlyRatePay\bin\Debug\Tarea3_Elizabeth.exe.config
+C:\Users\Elizabeth\Documents\GitHub\EmployeeHourlyRatePay\obj\Debug\Tarea3_Elizabeth.exe
+C:\Users\Elizabeth\Documents\GitHub\EmployeeHourlyRatePay\bin\Debug\Tarea3_Elizabeth.exe
+C:\Users\Elizabeth\Documents\GitHub\EmployeeHourlyRatePay\bin\Debug\Tarea3_Elizabeth.pdb
+C:\Users\Elizabeth\Documents\GitHub\EmployeeHourlyRatePay\obj\Debug\Tarea3_Elizabeth.csprojResolveAssemblyReference.cache
+C:\Users\Elizabeth\Documents\GitHub\EmployeeHourlyRatePay\obj\Debug\Tarea3_Elizabeth.pdb
